@@ -1,5 +1,5 @@
 ## Deploying a Dynamic website rentzone on AWS
-![Uploading image.png…]()
+![1673370789075](https://user-images.githubusercontent.com/108500289/231477778-474a9154-29db-416e-8910-ae77ff487b95.jpg)
 
 
 ### 💻 Setting Up Your Local Environment 
