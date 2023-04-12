@@ -1,14 +1,14 @@
 ## Deploying a Dynamic website rentzone on AWS
 
 💻 Setting Up Your Local Environment:
-✅ Installing and Setting Up Terraform
-✅ Creating a Free GitHub Account for Your Project
-✅ Installing Git on Your Computer
-✅ Generating Key Pairs for Secure Connections
-✅ Adding Public SSH Key to GitHub
-✅ Installing Visual Studio Code
-✅ Installing Terraform Extensions
-✅ Installing the AWS Command Line
+###✅ Installing and Setting Up Terraform
+###✅ Creating a Free GitHub Account for Your Project
+###✅ Installing Git on Your Computer
+###✅ Generating Key Pairs for Secure Connections
+###✅ Adding Public SSH Key to GitHub
+###✅ Installing Visual Studio Code
+###✅ Installing Terraform Extensions
+###✅ Installing the AWS Command Line
 
 🌩️ AWS Configuration and Terraform State Management
 ✅ Creating an IAM User in AWS
