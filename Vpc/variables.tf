@@ -1,0 +1,10 @@
+variable "region" {}
+variable "project_name" {}
+variable "environment" {}
+variable "vpc_cidr" {}
+variable "Pubsubaz1" {}
+variable "Pubsubaz2" {}
+variable "Privappsubaz1" {}
+variable "Privappsubaz2" {}
+variable "Privdbsubaz1" {}
+variable "Privdbsubaz2" {}
